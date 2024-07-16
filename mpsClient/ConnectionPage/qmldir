@@ -1,0 +1,10 @@
+module ConnectionPage
+ButtonItem 1.0 ButtonItem.qml
+BluetoothButtonItem 1.0 BluetoothButtonItem.qml
+ChooseDataCycleItem 1.0 ChooseDataCycleItem.qml
+ChooseShiftItem 1.0 ChooseShiftItem.qml
+ConnectionTab 1.0 ConnectionTab.qml
+ParametersItem 1.0 ParametersItem.qml
+SliderItem 1.0 SliderItem.qml
+StatusItem 1.0 StatusItem.qml
+WaitingItem 1.0 WaitingItem.qml

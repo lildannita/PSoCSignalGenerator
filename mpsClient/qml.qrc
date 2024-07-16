@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qmldir</file>
+        <file>MainWindow.qml</file>
+    </qresource>
+    <qresource prefix="/MpsStyle">
+        <file alias="qmldir">MpsStyle/qmldir</file>
+        <file alias="Style.qml">MpsStyle/Style.qml</file>
+        <file alias="ErrorPopup.qml">MpsStyle/ErrorPopup.qml</file>
+        <file alias="MpsPage.qml">MpsStyle/MpsPage.qml</file>
+        <file alias="MpsFooter.qml">MpsStyle/MpsFooter.qml</file>
+        <file alias="MpsFooterItem.qml">MpsStyle/MpsFooterItem.qml</file>
+        <file alias="MpsHeaderItem.qml">MpsStyle/MpsHeaderItem.qml</file>
+    </qresource>
+    <qresource prefix="/ConnectionPage">
+        <file alias="qmldir">ConnectionPage/qmldir</file>
+        <file alias="ButtonItem.qml">ConnectionPage/ButtonItem.qml</file>
+        <file alias="BluetoothButtonItem.qml">ConnectionPage/BluetoothButtonItem.qml</file>
+        <file alias="ChooseDataCycleItem.qml">ConnectionPage/ChooseDataCycleItem.qml</file>
+        <file alias="ChooseShiftItem.qml">ConnectionPage/ChooseShiftItem.qml</file>
+        <file alias="ConnectionTab.qml">ConnectionPage/ConnectionTab.qml</file>
+        <file alias="ParametersItem.qml">ConnectionPage/ParametersItem.qml</file>
+        <file alias="SliderItem.qml">ConnectionPage/SliderItem.qml</file>
+        <file alias="StatusItem.qml">ConnectionPage/StatusItem.qml</file>
+        <file alias="WaitingItem.qml">ConnectionPage/WaitingItem.qml</file>
+    </qresource>
+    <qresource prefix="/SettingsPage">
+        <file alias="qmldir">SettingsPage/qmldir</file>
+        <file alias="SettingsTab.qml">SettingsPage/SettingsTab.qml</file>
+        <file alias="PasswordItem.qml">SettingsPage/PasswordItem.qml</file>
+        <file alias="SwitchLanguageItem.qml">SettingsPage/SwitchLanguageItem.qml</file>
+    </qresource>
+</RCC>

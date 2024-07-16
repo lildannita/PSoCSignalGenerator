@@ -1,0 +1,4 @@
+module SettingsPage
+SettingsTab 1.0 SettingsTab.qml
+PasswordItem 1.0 PasswordItem.qml
+SwitchLanguageItem 1.0 SwitchLanguageItem.qml

@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bluetooth.svg</file>
+        <file>bluetooth_error.svg</file>
+        <file>ok.svg</file>
+        <file>error.svg</file>
+        <file>settings.svg</file>
+        <file>eye.svg</file>
+        <file>eye_black.svg</file>
+        <file>loading.svg</file>
+    </qresource>
+</RCC>

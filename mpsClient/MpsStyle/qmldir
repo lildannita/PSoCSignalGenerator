@@ -1,0 +1,7 @@
+module MpsStyle
+singleton Style 1.0 Style.qml
+ErrorPopup 1.0 ErrorPopup.qml
+MpsPage 1.0 MpsPage.qml
+MpsFooter 1.0 MpsFooter.qml
+MpsFooterItem 1.0 MpsFooterItem.qml
+MpsHeaderItem 1.0 MpsHeaderItem.qml
